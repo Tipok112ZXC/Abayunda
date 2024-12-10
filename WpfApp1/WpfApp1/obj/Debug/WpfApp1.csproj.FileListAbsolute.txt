@@ -1,0 +1,36 @@
+D:\IS1-43\подготовка к экзамену апи\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\IS1-43\подготовка к экзамену апи\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\IS1-43\подготовка к экзамену апи\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\IS1-43\подготовка к экзамену апи\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+D:\IS1-43\подготовка к экзамену апи\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+D:\IS1-43\подготовка к экзамену апи\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\IS1-43\подготовка к экзамену апи\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\IS1-43\подготовка к экзамену апи\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\IS1-43\подготовка к экзамену апи\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\IS1-43\подготовка к экзамену апи\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\IS1-43\подготовка к экзамену апи\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\IS1-43\подготовка к экзамену апи\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\IS1-43\подготовка к экзамену апи\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\IS1-43\подготовка к экзамену апи\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\IS1-43\подготовка к экзамену апи\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\IS1-43\подготовка к экзамену апи\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\IS1-43\подготовка к экзамену апи\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+F:\рб пк\уп03\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\рб пк\уп03\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+F:\рб пк\уп03\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\рб пк\уп03\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+F:\рб пк\уп03\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+F:\рб пк\уп03\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+F:\рб пк\уп03\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+F:\рб пк\уп03\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\рб пк\уп03\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+F:\рб пк\уп03\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\рб пк\уп03\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\рб пк\уп03\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+F:\рб пк\уп03\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\рб пк\уп03\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\рб пк\уп03\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\рб пк\уп03\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\рб пк\уп03\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+F:\рб пк\уп03\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+F:\рб пк\уп03\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

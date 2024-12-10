@@ -1,0 +1,9 @@
+F:\рб пк\уп03\API_test\API_test\bin\Debug\API_test.exe.config
+F:\рб пк\уп03\API_test\API_test\bin\Debug\API_test.exe
+F:\рб пк\уп03\API_test\API_test\bin\Debug\API_test.pdb
+F:\рб пк\уп03\API_test\API_test\obj\Debug\API_test.csprojAssemblyReference.cache
+F:\рб пк\уп03\API_test\API_test\obj\Debug\API_test.exe
+F:\рб пк\уп03\API_test\API_test\obj\Debug\API_test.pdb
+F:\рб пк\уп03\API_test\API_test\obj\Debug\API_test.csproj.AssemblyReference.cache
+F:\рб пк\уп03\API_test\API_test\obj\Debug\API_test.csproj.SuggestedBindingRedirects.cache
+F:\рб пк\уп03\API_test\API_test\obj\Debug\API_test.csproj.CoreCompileInputs.cache
